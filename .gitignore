@@ -1,0 +1,6 @@
+.vscode
+Jenkinsfile
+public
+node_modules
+config.*.json
+yarn.lock

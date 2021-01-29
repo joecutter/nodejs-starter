@@ -1,0 +1,15 @@
+{
+  "UNAUTHORIZED": "Invalid Credentials. Please Try Again",
+  
+  "MSG_RECORD_FOUND": "Record(s) has been found successfully.",
+  "MSG_RECORD_NOT_FOUND": "Record(s) not found.",
+  "MSG_RECORD_SAVED": "Record(s) created successfully.",
+  "MSG_RECORD_NOT_SAVED": "Record(s) not created successfully.",
+  "MSG_RECORD_EXIST": "Record(s) already exist.",
+
+  "VALIDATION_FIELD_MISSING": "A Field is missing or bad request.",
+
+  "HTTP_REQUEST_TO_SERVICE_FAILED": "Something went wrong. Request failed",
+  "HTTP_REQUEST_TO_SERVICE_PASSED": "Request successful. Please check your phone"
+
+}
